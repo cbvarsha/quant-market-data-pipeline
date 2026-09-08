@@ -1,0 +1,6 @@
+id,category,owner,status,priority,hours,sla
+PIPE-01,Prices ingestion,DataOps,Healthy,Low,0.4,1
+DQ-02,Missing prices,Quality,Closed,High,0.7,2
+FC-03,Rolling forecast,Research,Complete,Medium,1.1,4
+RISK-04,VaR back-test,Risk,Complete,Medium,1.4,4
+DEP-05,Dependency check,Platform,Healthy,Low,0.2,1

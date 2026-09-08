@@ -1,0 +1,8 @@
+[project]
+name = "quant-market-data-pipeline"
+version = "1.0.0"
+description = "Reproducible market-data quality, forecasting and portfolio-risk workflows."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
